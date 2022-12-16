@@ -3,7 +3,7 @@
 
 /**
  * main - prints the largest prime factor of the number 612852475143
- * Return: Always 0 is success
+ * Return: 0 is always success
  */
 int main(void)
 {
