@@ -3,10 +3,11 @@
 
 /**
  * main - prints a Fizz Buzz test program
- *
  * Return: Always 0 is success
  */
+
 int main(void)
+
 {
 	int x;
 
@@ -20,7 +21,7 @@ int main(void)
 	{
 	printf("Fizz");
 	}
-	else if (x % 5 ==0)
+	else if (x % 5 == 0)
 	{
 	printf("Buzz");
 	}
